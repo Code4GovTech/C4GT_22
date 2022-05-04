@@ -2,6 +2,7 @@
   "name": "c4gt-2022",
   "version": "0.0.2",
   "private": true,
+  "homepage": "https://Code4GovTech.github.io",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
