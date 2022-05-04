@@ -6,7 +6,7 @@ module.exports = {
   title: 'Code for GovTech projects',
   tagline: 'Updates about activites done by Code for GovTech students.',
   url: 'http://tech.samagragovernance.in/',
-  baseUrl: '/',
+  baseUrl: '/c4gt/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
