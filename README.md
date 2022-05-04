@@ -35,3 +35,5 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 Once the branch is merged to `main` branch, it will be deployed with the help of Github Actions at https://github.com/Code4GovTech/C4GT .
+
+Interested? Check out the [Code for GovTech Github wiki](https://github.com/Code4GovTech/C4GT/wiki) to see the mentors involved, project list and how you can apply. 
