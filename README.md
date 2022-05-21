@@ -4,7 +4,7 @@
 <br/>
 
 <a href="https://c4gt.netlify.app/">
-<img src="Code4GovTech.png" alt="CodeforGovTech">
+<img src="https://github.com/The-Shivam-garg/C4GT/blob/f89b9f311bc3fad6775d8c56f902b077abb095bd/assets/Code4GovTech.png" alt="CodeforGovTech">
 </a>
 <br/><br>
 
