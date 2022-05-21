@@ -1,7 +1,7 @@
 <h1 align="center">Code for GovTech </h1>
 
 # [Code for GovTech (C4GT)](https://c4gt.netlify.app/) Open Source Program
-<br/>
+<br>
 
 <a href="https://c4gt.netlify.app/">
 <img src="https://github.com/The-Shivam-garg/C4GT/blob/f89b9f311bc3fad6775d8c56f902b077abb095bd/assets/Code4GovTech.png" alt="CodeforGovTech">
@@ -90,7 +90,6 @@ If you have any queries or any suggestions then reach out to us at <a href="mail
 
 </div>
 <BR><BR>
- 
 
 <!-- <h1 align="center">Project Admin</h1>
 
@@ -223,10 +222,8 @@ Good Luck for your journey
 <div>
       
    <h1 align="center">SAMAGRA TECHNOLOGY</h1>
-      <img width="10%" align="center" src="" >
- 
- <h2 align="center"><B>BUILDING AN OPENSOURCE GOVERNMENT OPERATING SYSTEM</B></h2>
 
+ <h2 align="center"><B>BUILDING AN OPENSOURCE GOVERNMENT OPERATING SYSTEM</B></h2>
 
 
 > ## <B>Our vision</B> is to create a layer of reusable OpenSource products for governments that will serve as a government operating system.
@@ -234,8 +231,8 @@ Good Luck for your journey
 > ## <B>Our approach</B> is to build sector specific govtech products using OpenSource components that can be reused across governments.
 
 
-<span> <h2 align ="center">Join the Community  ⚡</h2>
-<center>
+<span > <h2 align ="center">Join the Community  ⚡</h2>
+<div align="Center"
 <a  href="https://www.youtube.com/channel/UCfkXErS-f87xUQkmSKSC8bg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a  href="https://www.linkedin.com/company/code-for-govtech" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -244,15 +241,7 @@ Good Luck for your journey
 </center>
  </div>
 
-
-
-<div align="center">
- 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-
-
-</div>
-
+<BR><BR>
 <div align="center">
 
 <a href="https://github.com/Code4GovTech/C4GT"><img src="https://sloc.xyz/github/Code4GovTech/C4GT" alt="LOC" /></a>
@@ -270,3 +259,8 @@ Good Luck for your journey
 
 ### © 2022 Code for GovTech (C4GT) and contributors
 ### This project is licensed under the [**MIT license**]().
+
+<div align="center">
+ 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+</div>
