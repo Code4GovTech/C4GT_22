@@ -3,13 +3,12 @@
 # [Code for GovTech (C4GT)](https://c4gt.netlify.app/) Open Source Program
 <br/>
 
-<a href="https://c4gt.netlify.app/">
-<img src="Code4GovTech.png" alt="CodeforGovTech">
-</a>
-<br/><br>
+<a href="https://c4gt.netlify.app/"></a>
+![Code4GovTech](https://user-images.githubusercontent.com/83035995/169862705-69a5fd67-aa32-4bf1-83ff-4dee5bacb6dc.png)
+<br>
 
 > ## 📌 “We believe open source is a public good and across every industry, we have a responsibility to come together to improve and support the security of open-source software we all depend on.”.😍😍 [Code for GovTech (C4GT)](https://c4gt.netlify.app/).
-<br/><br/>
+<br>
 
 ## C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
 
