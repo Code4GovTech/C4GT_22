@@ -1,6 +1,6 @@
 # Code for GovTech (C4GT)
 
-C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
+C4GT has been conceptualised as a summer coding program to create a healthy community that can build and contribute both to global digital public goods.
  - An opportunity for engineering students in India to experience the GovTech space 
  - Organized annually over 2 months (mid May-Aug)
  - There will be a set of diverse and engaging GovTech problem statements every year for the participants to work on
