@@ -1,10 +1,10 @@
 <h1 align="center">Code for GovTech </h1>
 
 # [Code for GovTech (C4GT)](https://c4gt.netlify.app/) Open Source Program
-<br>
+<br/>
 
 <a href="https://c4gt.netlify.app/">
-<img src="https://github.com/The-Shivam-garg/C4GT/blob/f89b9f311bc3fad6775d8c56f902b077abb095bd/assets/Code4GovTech.png" alt="CodeforGovTech">
+<img src="Code4GovTech.png" alt="CodeforGovTech">
 </a>
 <br/><br>
 
@@ -36,21 +36,21 @@ If you have any queries or any suggestions then reach out to us at <a href="mail
 
   | Project Name  |  Description  | Mentors Assigned |
 | :------------ |:---------------:| -----:|
-| [UCI Web Channel]()      | Project Description. | xyz |
-| [Admin for Sunbird RC]()      | Project Description. | xyz |
-| [UCI Signal Integration]()      | Project Description. | xyz |
-| [Centralised Access Control]()      | Project Description. | xyz |
-| [Competency Passbook]()      | Project Description. | xyz |
-| [Low-code Admin Console]()      | Project Description. | xyz |
-| [Workflow Management]()      | Project Description. | xyz |
-| [Machine Learning Platform]()      | Project Description. | xyz |
-| [URL Shortener (YAUS)]()      | Project Description. | xyz |
-| [Doc Generator]()      | Project Description. | xyz |
-| [Shiksha Postgres Adapter]()      | Project Description. | xyz |
-| [Shiksha CMS and Announcements Module]()      | Project Description. | xyz |
-| [Shiksha Frontend Restructuring]()      | Project Description. | xyz |
-| [Shiksha Design System]()      | Project Description. | xyz |
-| [Sunbird QUML Player]()      | Project Description. | xyz |
+| [UCI Web Channel](https://github.com/Code4GovTech/C4GT/wiki/UCI-Web-Channel)      | UCI is an open source platform that enables exactly this - a configurable platform to enable personalised chatbot communication across channels such as WhatsApp, Telegram, SMS, email and more. With UCI you can plugin any federated set of users, any micro experience generating transformers and any distribution channel adapters. | [Shruti](https://github.com/Shruti3004)&[Chakshu](https://github.com/ChakshuGautam) |
+| [Admin for Sunbird RC](https://github.com/Code4GovTech/C4GT/wiki/Admin-for-Sunbird-RC)      | Sunbird RC is an open-source software framework for rapidly building electronic registries, enable attestation capabilities, and build verifiable credentialing with minimal effort. X-Admin is an open-source, low-code framework to create internal admin tools for governance use cases. | [Shruti](https://github.com/Shruti3004)&[Chakshu](https://github.com/ChakshuGautam) |
+| [UCI Signal Integration](https://github.com/Code4GovTech/C4GT/wiki/UCI-Signal-Integration)      | UCI is an open source platform that enables exactly this - a configurable platform to enable personalised chatbot communication across channels such as WhatsApp, Telegram, SMS, email and more. With UCI you can plugin any federated set of users, any micro experience generating transformers and any distribution channel adapters. | [Shruti](https://github.com/Shruti3004)&[Chakshu](https://github.com/ChakshuGautam) |
+| [Centralised Access Control](https://github.com/Code4GovTech/C4GT/wiki/Centralised-Access-Control)      | OAuth2 Proxy is a reverse proxy and static file server that provides authentication using Providers (Google, GitHub, and others) to validate accounts by email, domain or group. This enables the creation of stateless microservices that can be verified through a network layer. The goal is to add FusionAuth as a provider that will enable all GovTech products to not include authentication-related code inside microservices, enabling the creation and management of ACL outside of a microservice in a reusable way.|[Chakshu](https://github.com/ChakshuGautam) |
+| [Competency Passbook](https://github.com/Code4GovTech/C4GT/wiki/Competency-Passbook)      | A competency ledger on a private blockchain network of schools for awarding badges and certificates to students can remain decentralised in the private blockchain network of schools and will always be one source of truth for authenticity. | [Bharat](https://github.com/bharatkashyap) |
+| [Low-code Admin Console](https://github.com/Code4GovTech/C4GT/wiki/Low-code-Admin-Console)      | X-Admin an open-source framework to create internal admin tools for governance use cases. | [Bharat](https://github.com/bharatkashyap)  |
+| [Workflow Management](https://github.com/Code4GovTech/C4GT/wiki/Workflow-Management)      | The aim of this project is to enable GovTech workflows such as If This Then That (IFTTT), Escalations and Alerts to be configured in a reusable manner and run through a combination of open source products - n8n (workflow builder) and temporal (runner). | [Ashish]() |
+| [Machine Learning Platform](https://github.com/Code4GovTech/C4GT/wiki/Machine-Learning-Platform)      | While there is a lot of data, it’s not easy to find people who can use that to good effect. The aim of this project is to build a platform that can be used by anyone to train models from these datasets, experiment between different models, deploy the better performing one and monitor the performance in production. | [Ashish]() |
+| [URL Shortener (YAUS)](https://github.com/Code4GovTech/C4GT/wiki/Yet-Another-URL-Shortener-(YAUS))      | YAUS is an open-source service for generating shortened URLs. | [BACHI](https://github.com/bachia) |
+| [Doc Generator](https://github.com/Code4GovTech/C4GT/wiki/Doc-Generator)      | Doc generator is a plugin-based service that will help in generating reports, docs, pdfs, from various data sources and in any required format and layout. The Design Doc can be found here. | [BACHI](https://github.com/bachia) |
+| [Shiksha Postgres Adapter](https://github.com/Code4GovTech/C4GT/wiki/Shiksha-Postgres-Adapter)      | This project aims to create a reference adapter which can interact with a Postgres database. This can be given as a reference implementation to deployers who may not have an existing backend.The project will involve creating a new adapter in Shiksha that uses Postgres as a backend. The schemas in Postgres can mimic the schemas from the Shiksha specification to make the implementation of the adapter simple. | [Ashwin](https://github.com/coolbung)|
+| [Shiksha CMS and Announcements Module](https://github.com/Code4GovTech/C4GT/wiki/CMS-and-Announcements-Module-for-Shiksha) | As Shiksha starts getting deployed, apart from the core functionalities like worksheets and attendance, there would be non-functional requirements like creating landing pages, welcome screens and content pages. Content pages would be useful to show information about the sponsoring ministry / authority, help and FAQ pages. Deployers will need to be able to create such content pages and also announcements (eg show announcements about events or updates).The project will allow 2 areas:Manage announcements and Manage content pages |  [Ashwin](https://github.com/coolbung)&[Arun](https://github.com/arajput)  |
+| [Shiksha Frontend Restructuring](https://github.com/Code4GovTech/C4GT/wiki/Restructuring-of-the-frontend-module-federation)      | The aim of Shiksha is to make highly configurable modules which can be embed and extend easily by developers in any of their application and used standalone by providing data points to it. | [Ashwin](https://github.com/coolbung)&[Arun](https://github.com/arajput)  |
+| [Shiksha Design System](https://github.com/Code4GovTech/C4GT/wiki/Shiksha-Design-System)      | The aim of Shiksha is to make highly configurable modules which can be embed and extend easily by developers in any of their application and used standalone by providing data points to it.| [Ashwin](https://github.com/coolbung)&[Arun](https://github.com/arajput) |
+| [Sunbird QUML Player](https://github.com/Code4GovTech/C4GT/wiki/Sunbird-QUML-Player)      | Sunbird inQuiry Sunbird inQuiry is a building block, open sourced under MIT license, that enables setting up of question banks that can contain questions and question sets for various use cases such as practice, assessment, quiz, worksheet and many more. | [Kartheek Palla](https://github.com/pallakartheekreddy)|
 
 <BR>
 
@@ -63,33 +63,26 @@ If you have any queries or any suggestions then reach out to us at <a href="mail
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+ 
 
-#### Extras : Particle.js, Typed.js, Tilt.js, Font Awesome, JSON, etc.
+
 
 </div>
 <BR><BR>
+ 
 
 <!-- <h1 align="center">Project Admin</h1>
 
@@ -106,7 +99,7 @@ If you have any queries or any suggestions then reach out to us at <a href="mail
 <h1 align="center">Our valuable Contributors ✨</h1>
 
 <a href="https://github.com/Code4GovTech/C4GT/graphs/contributors">
-<img src=""/>
+
 </a>
 -->
  <br>
@@ -222,8 +215,10 @@ Good Luck for your journey
 <div>
       
    <h1 align="center">SAMAGRA TECHNOLOGY</h1>
-
+      
+ 
  <h2 align="center"><B>BUILDING AN OPENSOURCE GOVERNMENT OPERATING SYSTEM</B></h2>
+
 
 
 > ## <B>Our vision</B> is to create a layer of reusable OpenSource products for governments that will serve as a government operating system.
@@ -231,17 +226,25 @@ Good Luck for your journey
 > ## <B>Our approach</B> is to build sector specific govtech products using OpenSource components that can be reused across governments.
 
 
-<span > <h2 align ="center">Join the Community  ⚡</h2>
-<div align="Center"
+<span> <h2 align ="center">Join the Community  ⚡</h2>
+<div align="center">
 <a  href="https://www.youtube.com/channel/UCfkXErS-f87xUQkmSKSC8bg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a  href="https://www.linkedin.com/company/code-for-govtech" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a  href="https://discord.com/invite/XeNVhYV4"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a  href="https://www.instagram.com/beasidehustler/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</center>
+</div>
  </div>
 
-<BR><BR>
+
+
+<div align="center">
+ 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
+
+</div>
+
 <div align="center">
 
 <a href="https://github.com/Code4GovTech/C4GT"><img src="https://sloc.xyz/github/Code4GovTech/C4GT" alt="LOC" /></a>
@@ -253,14 +256,10 @@ Good Luck for your journey
 
 [![GitHub license](https://img.shields.io/github/license/Code4GovTech/C4GT?logo=github)](https://github.com/Code4GovTech/C4GT/blob/master/LICENSE)
 
+### © 2022 Code for GovTech (C4GT) and contributors
+### This project is licensed under the [**MIT license**]().
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 </div>
 
-### © 2022 Code for GovTech (C4GT) and contributors
-### This project is licensed under the [**MIT license**]().
-
-<div align="center">
- 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-</div>
