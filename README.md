@@ -1,25 +1,25 @@
-<h1 align="center">Code for GovTech </h1>
+<h2 align="center">Code for GovTech </h2>
 
 
-# [Code for GovTech (C4GT)](https://c4gt.netlify.app/) Open Source Program
+## [Code for GovTech (C4GT)](https://c4gt.netlify.app/) Open Source Program
 <br/>
 
 <a href="https://c4gt.netlify.app/"></a>
 ![Code4GovTech](https://user-images.githubusercontent.com/83035995/169862705-69a5fd67-aa32-4bf1-83ff-4dee5bacb6dc.png)
 <br>
 
-> ## 📌 “We believe open source is a public good and across every industry, we have a responsibility to come together to improve and support the security of open-source software we all depend on.”.😍😍 [Code for GovTech (C4GT)](https://c4gt.netlify.app/).
+> ### 📌 “We believe open source is a public good and across every industry, we have a responsibility to come together to improve and support the security of open-source software we all depend on.”.😍😍 [Code for GovTech (C4GT)](https://c4gt.netlify.app/).
 <br>
 
-## C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
+### C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
 
-> ###   📌 An opportunity for 3rd/4th year engineering students from Tier 1/2 campuses in India to experience the GovTech space.<BR>
-> ###   📌 Organized annually over 3 months (mid May-mid Aug), anchored by Samagra with support from partners.<BR>
-> ###   📌 There will be a set of GovTech problem statements every year for the participants to work on.<BR>
-> ###   📌 Shortlisted participants will receive mentorship of leading practitioners in GovTech over 3 months.<BR><BR>
+> ####   📌 An opportunity for 3rd/4th year engineering students from Tier 1/2 campuses in India to experience the GovTech space.<BR>
+> ####   📌 Organized annually over 3 months (mid May-mid Aug), anchored by Samagra with support from partners.<BR>
+> ####   📌 There will be a set of GovTech problem statements every year for the participants to work on.<BR>
+> ####   📌 Shortlisted participants will receive mentorship of leading practitioners in GovTech over 3 months.<BR><BR>
 
 
-## This repository is created to hold every documentation generated during C4GT.This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.You Can ( <a href="https://c4gt.netlify.app/" target="_blank">Visit 🚀</a> )
+### This repository is created to hold every documentation generated during C4GT.This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.You Can ( <a href="https://c4gt.netlify.app/" target="_blank">Visit 🚀</a> )
 
 
 If you have any queries or any suggestions then reach out to us at <a href="mailto:">Mail</a>.
@@ -217,13 +217,13 @@ Good Luck for your journey
    <h1 align="center">SAMAGRA TECHNOLOGY</h1>
       
  
- <h2 align="center"><B>BUILDING AN OPENSOURCE GOVERNMENT OPERATING SYSTEM</B></h2>
+ <h3 align="center"><B>BUILDING AN OPENSOURCE GOVERNMENT OPERATING SYSTEM</B></h3>
 
 
 
-> ## <B>Our vision</B> is to create a layer of reusable OpenSource products for governments that will serve as a government operating system.
+> #### <B>Our vision</B> is to create a layer of reusable OpenSource products for governments that will serve as a government operating system.
 
-> ## <B>Our approach</B> is to build sector specific govtech products using OpenSource components that can be reused across governments.
+> #### <B>Our approach</B> is to build sector specific govtech products using OpenSource components that can be reused across governments.
 
 
 <span> <h2 align ="center">Join the Community  ⚡</h2>
