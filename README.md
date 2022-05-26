@@ -1,12 +1,24 @@
+
 <h2 align="center">Code for GovTech </h2>
+
+# Code for GovTech (C4GT)
+
+
+C4GT has been conceptualised as a summer coding program to create a healthy community that can build and contribute both to global digital public goods.
+ - An opportunity for engineering students in India to experience the GovTech space 
+ - Organized annually over 2 months (mid May-Aug)
+ - There will be a set of diverse and engaging GovTech problem statements every year for the participants to work on
+ - Shortlisted participants will receive mentorship of leading practitioners in GovTech 
 
 
 ## [Code for GovTech (C4GT)](https://c4gt.netlify.app/) Open Source Program
 <br/>
 
-<a href="https://c4gt.netlify.app/"></a>
-![Code4GovTech](https://user-images.githubusercontent.com/83035995/169862705-69a5fd67-aa32-4bf1-83ff-4dee5bacb6dc.png)
-<br>
+This repository is created to hold every documentation generated during C4GT.
+
+
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
 
 > ### 📌 “We believe open source is a public good and across every industry, we have a responsibility to come together to improve and support the security of open-source software we all depend on.”.😍😍 [Code for GovTech (C4GT)](https://c4gt.netlify.app/).
 <br>
@@ -155,51 +167,28 @@ Remote means the remote location of project on Github. By cloning, we have a rem
 ```
 $ cd <your-forked-project-folder>
 $ git remote add upstream https://github.com/Code4GovTech/C4GT
-```
 
-You will see the benefits of adding remote later.
+## Installation
 
-<br />
-
-### Synchronizing your fork
-
-Open Source projects have a number of contributors who can push code anytime. So it is necessary to make your forked copy equal with the original repository. The remote added above called Upstream helps in this.
+```console
+yarn install
 
 ```
-$ git checkout main
-$ git fetch upstream
-$ git merge upstream/main
-$ git push origin main
+
+## Local Development
+
+```console
+yarn start
 ```
 
-The last command pushes the latest code to your forked repository on Github. The origin is the remote pointing to your forked repository on github.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-<br />
+## Build
 
-### Create a new branch for a feature or bugfix
-
-Usually, all repositories have a main branch that is regarded to be stable, and any new features should be developed on a separate branch before being merged into the main branch. As a result, we should establish a new branch for our feature or bugfix and go to work on the issue. 
-
-```
-$ git checkout -b <feature-branch>
+```console
+yarn build
 ```
 
-This will create a new branch out of master branch. Now start working on the problem and commit your changes.
-
-```
-$ git add --all
-$ git commit -m "<commit message>"
-```
-
-The first command adds all the files or you can add specific files by removing -a and adding the file names. The second command gives a message to your changes so you can know in future what changes this commit makes. If you are solving an issue on original repository, you should add the issue number like #35 to your commit message. This will show the reference to commits in the issue.
-
-<br />
-
-### Push code and create a pull request
-
-You now have a new branch containing the modifications you want in the project you forked. Now, push your new branch to your remote github fork. 
-
-```
 $ git push origin <feature-branch>
 ```
 Now you are ready to help the project by opening a pull request means you now tell the project managers to add the feature or bug fix to original repository. You can open a pull request by clicking on green icon -
@@ -258,9 +247,5 @@ Good Luck for your journey
 
 ### © 2022 Code for GovTech (C4GT) and contributors
 ### This project is licensed under the [**MIT license**]().
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-</div>
 
 
