@@ -4,7 +4,8 @@
 <br/>
 <a href="https://c4gt.netlify.app/"></a>
 
-![Code4GovTech](https://user-images.githubusercontent.com/83035995/170552704-2957e88b-a3eb-407c-82c3-c380271066ac.png)
+![Code4GovTech](https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png)
+
 <br>
 > ### 📌 “We believe open source is a public good and across every industry, we have a responsibility to come together to improve and support the security of open-source software we all depend on.”.😍😍 [Code for GovTech (C4GT)](https://c4gt.netlify.app/).
 <br/><br/>
