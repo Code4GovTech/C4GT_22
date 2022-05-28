@@ -3,14 +3,10 @@
 ## [Code for GovTech (C4GT)](https://c4gt.netlify.app/) Open Source Program
 <br/>
 <a href="https://c4gt.netlify.app/"></a>
-
-<img src="https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/
-060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png"/>
-
-<br>
+<div align="Center"><img src="https://static.wixstatic.com/media/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png/v1/fill/w_2266,h_2168,al_c,q_95,usm_0.66_1.00_0.01,enc_auto/060b0c_8029055ce0074bfaa4bb6d9f1c2c33d2~mv2.png" height ="500" align="Center"/><br>
+</div>
 
 > ### 📌 “We believe open source is a public good and across every industry, we have a responsibility to come together to improve and support the security of open-source software we all depend on.”.😍😍 [Code for GovTech (C4GT)](https://c4gt.netlify.app/).
-<br/><br/>
 
 ### C4GT has been conceptualised as a summer coding program to create a community that can build and contribute to global digital public goods.
 
@@ -76,14 +72,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
- 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  
-
-
-
 </div>
-<BR><BR>
+<BR>
  
 
 <!-- <h1 align="center">Project Admin</h1>
