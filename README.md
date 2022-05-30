@@ -206,20 +206,9 @@ Congratulations! You've already made your first contribution.🥳
 
 Good Luck for your journey
 
-<div>
+
       
- <h2 align="center">SAMAGRA TECHNOLOGY</h2>
-     
  
- <h2 align="center"><B>BUILDING AN OPENSOURCE GOVERNMENT OPERATING SYSTEM</B></h2>
-
-
-
-> ## <B>Our vision</B> is to create a layer of reusable OpenSource products for governments that will serve as a government operating system.
-
-> ## <B>Our approach</B> is to build sector specific govtech products using OpenSource components that can be reused across governments.
-
-
 <span> <h2 align ="center">Join the Community  ⚡</h2>
 <div align ="center">
 <a  href="https://www.youtube.com/channel/UCfkXErS-f87xUQkmSKSC8bg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
@@ -228,7 +217,6 @@ Good Luck for your journey
 <a  href="https://discord.com/invite/XeNVhYV4"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a  href="https://www.instagram.com/beasidehustler/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
- </div>
 
 
 
