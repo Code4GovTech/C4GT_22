@@ -26,6 +26,6 @@ Following are the important links to projects done in C4GT - 2022.
 
 ### Photo
 
-![group photo](/img/c4gt22participants.png)
-
+![group1 photo](/img/c4gt22participants.jpeg)
+![group2 photo](/img/c4gt23participants.jpeg)
 Thanks for being part of the community. 💚
