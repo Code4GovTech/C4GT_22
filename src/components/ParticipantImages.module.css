@@ -19,13 +19,12 @@
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 10px;
-  background: rgba(0, 0, 0, 0.9) !important;
+  background: rgba(0, 0, 0, 0.6) !important;
   color: #fff;
   padding: 10px;
   font-size: 20px;
   text-align: center;
   border-radius: 2rem;
-  opacity: 70%;
 }
 
 @media screen and (max-width: 700px) {
