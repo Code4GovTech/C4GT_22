@@ -36,9 +36,13 @@ module.exports = {
             {
               label: 'Admin for Sunbird RC',
               to: '/docs/2022/admin/',
-            }            
+            },
+            {
+              label: 'Yaus: Yet Another URL Shortener',
+              to: '/docs/2022/yaus/',
+            }
           ]
-        }            
+        }
       ],
     },
     footer: {
@@ -67,7 +71,7 @@ module.exports = {
             {
               label: 'YouTube',
               href: 'https://www.youtube.com/channel/UCfkXErS-f87xUQkmSKSC8bg',
-            },            
+            },
             {
               label: 'Getting started',
               href: 'https://github.com/Code4GovTech/C4GT/wiki',
