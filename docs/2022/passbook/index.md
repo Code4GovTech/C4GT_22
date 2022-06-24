@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Introduction
-slug: /2022/uci/
+slug: /2022/passbook/
 ---
 
 <!--
