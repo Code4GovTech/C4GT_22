@@ -34,6 +34,7 @@ module.exports = {
               to: "/docs/2022/passbook/",
             },
             {
+<<<<<<< HEAD
               label: "Admin for Sunbird RC",
               to: "/docs/2022/admin/",
             },
@@ -43,6 +44,17 @@ module.exports = {
             },
           ],
         },
+=======
+              label: 'Admin for Sunbird RC',
+              to: '/docs/2022/admin/',
+            },
+            {
+              label: 'Yaus: Yet Another URL Shortener',
+              to: '/docs/2022/yaus/',
+            }
+          ]
+        }
+>>>>>>> origin/main
       ],
     },
     footer: {
@@ -69,8 +81,13 @@ module.exports = {
           title: "More",
           items: [
             {
+<<<<<<< HEAD
               label: "YouTube",
               href: "https://www.youtube.com/channel/UCfkXErS-f87xUQkmSKSC8bg",
+=======
+              label: 'YouTube',
+              href: 'https://www.youtube.com/channel/UCfkXErS-f87xUQkmSKSC8bg',
+>>>>>>> origin/main
             },
             {
               label: "Getting started",

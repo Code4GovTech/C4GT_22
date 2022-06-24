@@ -9,16 +9,16 @@ slug: /2022/admin/
 -->
 
 # Author
-Shruti Agarwal
+Harshil Jani
 
 # Contact Info
-- [Email](mailto:shruti@samagragovernance.in)
-- [Linked In](https://www.linkedin.com/in/shruti-ag)
-- [GitHub](https://github.com/Shruti3004)
+- [Email](mailto:harshiljani2002@gmail.com)
+- [Linked In](https://www.linkedin.com/in/harshil1)
+- [GitHub](https://github.com/Harshil-Jani)
 
 # Project Description
-"To be Added"
-
+Sunbird RC is an open-source software framework for rapidly building electronic registries, enable attestation capabilities, and build verifiable credentialing with minimal effort. X-Admin is an open-source, low-code framework to create internal admin tools for governance use cases.
 
 ## Project Goal
-"To be Added"
+- Manage Sunbird-RC schema.json file in React Admin
+- Auto Generate React Admin based on Sunbird-RC
