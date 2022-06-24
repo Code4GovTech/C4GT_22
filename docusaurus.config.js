@@ -40,6 +40,10 @@ module.exports = {
             {
               label: 'Yaus: Yet Another URL Shortener',
               to: '/docs/2022/yaus/',
+            },
+            {
+              label: 'Shiksha',
+              to: '/docs/2022/shiksha/',
             }
           ]
         }
