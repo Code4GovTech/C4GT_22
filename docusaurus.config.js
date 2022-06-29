@@ -51,7 +51,7 @@ module.exports = {
             }, 
             {
               label: 'Sunbird QuML Player',
-              to: '/docs/2022/QuML/',
+              to: '/docs/2022/sunbird-quml/',
             },
           ],
         },
