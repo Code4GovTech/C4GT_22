@@ -19,9 +19,10 @@ Following are the important links to projects done in C4GT - 2022.
 * [Arun Rajput](https://github.com/arajput)
 * [Ashish Yadav](https://github.com/ashish-samagra)
 * [Ashwin Date](https://github.com/coolbung)
-* [Bachi Allamsetty](https://github.com/bachia)
 * [Bharat Kashyap](https://github.com/bharatkashyap)
 * [Chakshu Gautam](https://github.com/ChakshuGautam)
+* [Kartheek Palla](https://github.com/pallakartheekreddy)
+* [Manav Bharambe](https://github.com/anarchistMegabyte)
 * [Shruti Agarwal](https://github.com/Shruti3004)
 
 ### Photo
