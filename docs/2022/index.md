@@ -33,7 +33,6 @@ Following are the important links to projects done in C4GT - 2022.
 | Siddhant Tohan | [Shiksha](/docs/2022/shiksha) |
 ### Mentors
 
-* [Arun Rajput](https://github.com/arajput)
 * [Ashish Yadav](https://github.com/ashish-samagra)
 * [Ashwin Date](https://github.com/coolbung)
 * [Bharat Kashyap](https://github.com/bharatkashyap)
