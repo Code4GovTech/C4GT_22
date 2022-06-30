@@ -10,10 +10,21 @@ slug: /2022
 ### Projects
 Following are the important links to projects done in C4GT - 2022.
 
-| Student | Project | Final Reports |
-| :--- | :--- | :--- |
-| [Shruti Agarwal](https://github.com/shruti3004) | [X-Admin](/docs/2022/admin) | [Visit](https://medium.com/@shruti-ag/gsoc21-with-fossology-fd97cd2a3924) |
-
+| Student | Project |
+| :--- | :--- |
+| Akshay Sharma | [YAUS](/docs/2022/yaus) |
+| Ansh Sarkar | [Competency Passbook](/docs/2022/passbook) |
+| Arshpreet Singh | [UCI-Web-Channel](/docs/2022/uci) |
+| Deepdarshan | [Sunbirl QUML player](/docs/2022/sunbird-quml) |
+| Hardik Sharma | [Shiksha](/docs/2022/shiksha) |
+| Harshil Jani | [Admin for Sunbird RC](/docs/2022/admin) |
+| Himanshi Kukreja | [Sunbird QUML player](/docs/2022/sunbird-quml) |
+| Janhavi Lande | Machine Learning |
+| Kanika Gola | [YAUS](/docs/2022/yaus) |
+| Kushboo Agarwal | [Centralized Access Control](/docs/2022/cac) |
+| Neelesh Sharma | [UCI-Web-Channel](/docs/2022/uci) |
+| Pratyaksh Singh | Machine Learning |
+| Siddhant Tohan | [Shiksha](/docs/2022/shiksha) |
 ### Mentors
 
 * [Arun Rajput](https://github.com/arajput)
