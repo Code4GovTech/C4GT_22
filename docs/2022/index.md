@@ -5,23 +5,40 @@ slug: /2022
 ---
 
 
-"To be added"
+C4GT has been conceptualized as a summer coding program to create a community that can build and contribute to global digital public goods.
+
+* An opportunity for engineering students in India to experience the GovTech space
+* Organized annually over 2 months (mid May-Aug)
+* There will be a set of diverse and engaging GovTech problem statements every year for the participants to work on
+* Shortlisted participants will receive mentorship from leading practitioners in GovTech ecosystem
+
 
 ### Projects
 Following are the important links to projects done in C4GT - 2022.
 
-| Student | Project | Final Reports |
-| :--- | :--- | :--- |
-| [Shruti Agarwal](https://github.com/shruti3004) | [X-Admin](/docs/2022/admin) | [Visit](https://medium.com/@shruti-ag/gsoc21-with-fossology-fd97cd2a3924) |
-
+| Student | Project |
+| :--- | :--- |
+| Akshay Sharma | [YAUS](/docs/2022/yaus) |
+| Ansh Sarkar | [Competency Passbook](/docs/2022/passbook) |
+| Arshpreet Singh | [UCI-Web-Channel](/docs/2022/uci) |
+| Deepdarshan | [Sunbirl QUML player](/docs/2022/sunbird-quml) |
+| Hardik Sharma | [Shiksha](/docs/2022/shiksha) |
+| Harshil Jani | [Admin for Sunbird RC](/docs/2022/admin) |
+| Himanshi Kukreja | [Sunbird QUML player](/docs/2022/sunbird-quml) |
+| Janhavi Lande | Machine Learning |
+| Kanika Gola | [YAUS](/docs/2022/yaus) |
+| Kushboo Agarwal | [Centralized Access Control](/docs/2022/cac) |
+| Neelesh Sharma | [UCI-Web-Channel](/docs/2022/uci) |
+| Pratyaksh Singh | Machine Learning |
+| Siddhant Tohan | [Shiksha](/docs/2022/shiksha) |
 ### Mentors
 
-* [Arun Rajput](https://github.com/arajput)
 * [Ashish Yadav](https://github.com/ashish-samagra)
 * [Ashwin Date](https://github.com/coolbung)
-* [Bachi Allamsetty](https://github.com/bachia)
 * [Bharat Kashyap](https://github.com/bharatkashyap)
 * [Chakshu Gautam](https://github.com/ChakshuGautam)
+* [Kartheek Palla](https://github.com/pallakartheekreddy)
+* [Manav Bharambe](https://github.com/anarchistMegabyte)
 * [Shruti Agarwal](https://github.com/Shruti3004)
 
 ### Photo

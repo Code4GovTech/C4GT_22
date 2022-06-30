@@ -48,7 +48,11 @@ module.exports = {
             {
               label: 'Shiksha',
               to: '/docs/2022/shiksha/',
-            }
+            }, 
+            {
+              label: 'Sunbird QuML Player',
+              to: '/docs/2022/sunbird-quml/',
+            },
           ],
         },
       ],
