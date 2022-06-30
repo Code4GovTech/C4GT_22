@@ -5,7 +5,13 @@ slug: /2022
 ---
 
 
-"To be added"
+C4GT has been conceptualized as a summer coding program to create a community that can build and contribute to global digital public goods.
+
+* An opportunity for engineering students in India to experience the GovTech space
+* Organized annually over 2 months (mid May-Aug)
+* There will be a set of diverse and engaging GovTech problem statements every year for the participants to work on
+* Shortlisted participants will receive mentorship from leading practitioners in GovTech ecosystem
+
 
 ### Projects
 Following are the important links to projects done in C4GT - 2022.
