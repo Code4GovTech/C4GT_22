@@ -18,7 +18,7 @@ slug: /2022/ml-platform/
     - [LinkedIn](https://www.linkedin.com/in/janhavi12)
     - [GitHub](https://github.com/janhavilande)
 - Pratyaksh
-    - [Email](iib2020015@iiita.ac.in)
+    - [Email](mailto:iib2020015@iiita.ac.in)
 
 
 # Project Description
