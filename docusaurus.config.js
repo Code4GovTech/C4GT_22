@@ -54,7 +54,11 @@ module.exports = {
               to: '/docs/2022/sunbird-quml/',
             },
           ],
-        },
+        },{
+          label: "Resources",
+          position: "left",
+          to: "/docs/Resources/"
+        }
       ],
     },
     footer: {
