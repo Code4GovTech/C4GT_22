@@ -1,6 +1,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
+const year = new Date().getFullYear();
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "Code for GovTech projects",
@@ -95,7 +95,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © 2022 C4GT, Built with Docusaurus.`,
+      copyright: `Copyright © ${year} C4GT, Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
