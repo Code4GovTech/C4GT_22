@@ -54,10 +54,6 @@ module.exports = {
               to: '/docs/2022/sunbird-quml/',
             },
           ],
-        },{
-          label: "Resources",
-          position: "left",
-          to: "/docs/Resources/"
         }
       ],
     },
@@ -78,7 +74,10 @@ module.exports = {
             {
               label: "Main home page",
               href: "http://tech.samagragovernance.in/",
-            },
+            },{
+              label: "Resources",
+              to: '/docs/Resources'
+            }
           ],
         },
         {
