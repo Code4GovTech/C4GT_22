@@ -15,8 +15,8 @@
 
 .imageCarouselCaption {
   position: absolute;
-  bottom: 10px;
-  left: 50%;
+  top: 8%;
+  left : 15%;
   transform: translate(-50%, -50%);
   border-radius: 10px;
   background: rgba(0, 0, 0, 0.6) !important;
