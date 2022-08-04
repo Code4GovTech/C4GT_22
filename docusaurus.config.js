@@ -1,6 +1,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
+const year = new Date().getFullYear();
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "Code for GovTech projects",
@@ -59,7 +59,7 @@ module.exports = {
               to: '/docs/2022/ml-platform/',
             },
           ],
-        },
+        }
       ],
     },
     footer: {
@@ -79,7 +79,10 @@ module.exports = {
             {
               label: "Main home page",
               href: "http://tech.samagragovernance.in/",
-            },
+            },{
+              label: "Resources",
+              to: '/docs/Resources'
+            }
           ],
         },
         {
@@ -96,7 +99,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © 2022 C4GT, Built with Docusaurus.`,
+      copyright: `Copyright © ${year} C4GT, Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
