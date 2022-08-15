@@ -16,21 +16,21 @@ C4GT has been conceptualized as a summer coding program to create a community th
 ### Projects
 Following are the important links to projects done in C4GT - 2022.
 
-| Student | Project |
-| :--- | :--- |
-| Akshay Sharma | [YAUS](/docs/2022/yaus) |
-| Ansh Sarkar | [Competency Passbook](/docs/2022/passbook) |
-| Arshpreet Singh | [UCI-Web-Channel](/docs/2022/uci) |
-| Deepdarshan | [Sunbirl QUML player](/docs/2022/sunbird-quml) |
-| Hardik Sharma | [Shiksha](/docs/2022/shiksha) |
-| Harshil Jani | [Admin for Sunbird RC](/docs/2022/admin) |
-| Himanshi Kukreja | [Sunbird QUML player](/docs/2022/sunbird-quml) |
-| Janhavi Lande | [Machine Learning](/docs/2022/ml-platform)|
-| Kanika Gola | [YAUS](/docs/2022/yaus) |
-| Kushboo Agarwal | [Centralized Access Control](/docs/2022/cac) |
-| Neelesh Sharma | [UCI-Web-Channel](/docs/2022/uci) |
-| Pratyaksh Singh | [Machine Learning](/docs/2022/ml-platform)|
-| Siddhant Tohan | [Shiksha](/docs/2022/shiksha) |
+| Student | Project | Blogs | 
+| :--- | :--- | :-- |
+| Akshay Sharma | [YAUS](/docs/2022/yaus) | Link |
+| Ansh Sarkar | [Competency Passbook](/docs/2022/passbook) | Link |
+| Arshpreet Singh | [UCI-Web-Channel](/docs/2022/uci) | Link |
+| Deepdarshan | [Sunbirl QUML player](/docs/2022/sunbird-quml) | Link |
+| Hardik Sharma | [Shiksha](/docs/2022/shiksha) | Link |
+| Harshil Jani | [Admin for Sunbird RC](/docs/2022/admin) | [Independence in Indian Computing Field](https://medium.com/@harshiljani2002/independence-in-indian-computing-industry-ceb27fc047cb) |
+| Himanshi Kukreja | [Sunbird QUML player](/docs/2022/sunbird-quml) | Link |
+| Janhavi Lande | [Machine Learning](/docs/2022/ml-platform)| Link |
+| Kanika Gola | [YAUS](/docs/2022/yaus) | Link |
+| Kushboo Agarwal | [Centralized Access Control](/docs/2022/cac) | Link |
+| Neelesh Sharma | [UCI-Web-Channel](/docs/2022/uci) | Link |
+| Pratyaksh Singh | [Machine Learning](/docs/2022/ml-platform)| Link |
+| Siddhant Tohan | [Shiksha](/docs/2022/shiksha) | Link |
 ### Mentors
 
 * [Ashish Yadav](https://github.com/ashish-samagra)
